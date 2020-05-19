@@ -7,7 +7,7 @@ This project is developed in 2nd semester of software engineering as the semeste
 * They can check customer detail.
 * They can cancel ticket.
 
-![Uploading image.png…]()
+![image](https://user-images.githubusercontent.com/65450291/82373627-4b929d80-9a37-11ea-851a-989d8c6f4a8f.png)
 
 # Developers
 
