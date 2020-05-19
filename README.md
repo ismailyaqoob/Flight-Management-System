@@ -7,6 +7,8 @@ This project is developed in 2nd semester of software engineering as the semeste
 * They can check customer detail.
 * They can cancel ticket.
 
+![Uploading image.png…]()
+
 # Developers
 
 [**Muhammad Rafay (17B-008-SE)**](https://github.com/MuhammadRafay151/)
@@ -22,7 +24,7 @@ This project is developed in 2nd semester of software engineering as the semeste
 
 * Testing
 
-**Sabih Mohsin (17B-058-SE)*
+**Sabih Mohsin (17B-058-SE)**
 
 * Testing
 
