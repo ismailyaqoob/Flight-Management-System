@@ -11,24 +11,24 @@ This project is developed in 2nd semester of software engineering as the semeste
 
 # Developers
 
-[**Muhammad Rafay (17B-008-SE)**](https://github.com/MuhammadRafay151/)
+[**1. Muhammad Rafay (17B-008-SE)**](https://github.com/MuhammadRafay151/)
 
 * Back end development 
 
-[**M Umair Zafar (17B-026-SE)**](https://github.com/UmairZafar-5) 
+[**2. M Umair Zafar (17B-026-SE)**](https://github.com/UmairZafar-5) 
 
 * Theme Design & Graphics Design
 * Home Page Design
 
-[**Muhammad Aamir (17B-034-SE)**](https://github.com/MuhammadAamir21/)
+[**3. Muhammad Aamir (17B-034-SE)**](https://github.com/MuhammadAamir21/)
 
 * Testing
 
-**Sabih Mohsin (17B-058-SE)**
+**4. Sabih Mohsin (17B-058-SE)**
 
 * Testing
 
-[**Muhammad Ismail Yaqoob (17B-062-SE)**](https://github.com/ismailyaqoob)
+[**5. Muhammad Ismail Yaqoob (17B-062-SE)**](https://github.com/ismailyaqoob)
 
 * Interfaces Design
 * Developed Design For Filling
