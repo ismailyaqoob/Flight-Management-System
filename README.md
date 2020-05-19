@@ -24,7 +24,7 @@ This project is developed in 2nd semester of software engineering as the semeste
 
 * Testing
 
-**4. Sabih Mohsin (17B-058-SE)**
+[**4. Sabih Mohsin (17B-058-SE)**](https://github.com/sabihmohsin)
 
 * Testing
 
