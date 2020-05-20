@@ -1,45 +1,41 @@
 # Flight-Management-System
-This project is developed in 2nd semester of software engineering as the semester project of OOP. In this project we use filing to save user data.
+This project is developed in 2nd semester of Software Engineering as the semester project of Object Oriented Programing (OOP).
 
-# Features
-* Flight management are able to view detail of flights.
-* They can booked tickets for domestic/international flights.
-* They can check customer detail.
-* They can cancel ticket.
+## Features
+* User is able to view detail of the flights.
+* User can book tickets for domestic/international flights.
+* User can check customer detail.
+* User can cancel ticket.
 
-![image](https://user-images.githubusercontent.com/65450291/82373627-4b929d80-9a37-11ea-851a-989d8c6f4a8f.png)
+**For Images [Click Here]()**
 
-# Developers
+## Group Members
 
-[**1. Muhammad Rafay (17B-008-SE)**](https://github.com/MuhammadRafay151/)
+**[1. Muhammad Rafay](https://github.com/MuhammadRafay151/)**
+* Back end development
 
-* Back end development 
-
-[**2. M Umair Zafar (17B-026-SE)**](https://github.com/UmairZafar-5) 
-
+**[2. Muhammad Umair Zafar](https://github.com/UmairZafar-5)**
 * Theme Design & Graphics Design
 * Home Page Design
 
-[**3. Muhammad Aamir (17B-034-SE)**](https://github.com/MuhammadAamir21/)
-
+**[3. Muhammad Aamir](https://github.com/MuhammadAamir21/)**
 * Testing
 
-[**4. Sabih Mohsin (17B-058-SE)**](https://github.com/sabihmohsin)
+**[4. Muhammad Sabih Mohsin](https://github.com/sabihmohsin)**
+* Testng
 
-* Testing
-
-[**5. Muhammad Ismail Yaqoob (17B-062-SE)**](https://github.com/ismailyaqoob)
+**[5. Muhammad Ismail](https://github.com/ismailyaqoob)**
 
 * Interfaces Design
 * Developed Design For Filling
 
-# Technology
-* The project is built on Visual Studio 2017
+## Technology
+* The project is built on Visual Studio 2013
 * Programming Language C#
 * .Net Framework 4.5
 
-# How to Compile?
+## How to Compile?
 
-First of all download the project then you need Visual Studio to run the project. If you have already installed Visual Studio then go to the folder of **most final** then open AIRFLIGHTS.sln then press Ctrl+F5 to execute the code.
+First of all you need to download the project then you need Visual Studio to run the project. If you have already installed Visual Studio then go to the folder of **most final** then open **AIRFLIGHTS.sln** then press **F5** to execute the code.
 
 **_Note: The project is built on .Net Framework 4.5 if you have older version then you can run the project by setting the version of .Net Framework according to you._**
