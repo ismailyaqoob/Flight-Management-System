@@ -7,7 +7,6 @@ This project is developed in 2nd semester of Software Engineering as the semeste
 * User can check customer detail.
 * User can cancel ticket.
 
-**For Images [Click Here]()**
 
 ## Group Members
 
